@@ -1,2 +1,2 @@
-[* ZVMP *]
+[*ZVMP*]
 [reer p]()
